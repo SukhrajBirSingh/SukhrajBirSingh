@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **Sgosal15@gmail.com**
 
-<img align = "center" alt = "screenshotapp" width = "200" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
+
+<h3 align = "right">React-Native Apps</h3>
+<img align = "left" alt = "screenshotapp" width = "100" height = "200" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
