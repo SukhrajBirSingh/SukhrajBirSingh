@@ -3,23 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Sukhraj Bir Sinngh</h1>
 <h3 align="center">A passionate self thought mobile developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
  
 - 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **iOS, Swift and React-Native**
 
 - 📫 How to reach me **Sgosal15@gmail.com**
-
-
-
-
-
-
-
-
-
-
 
 <img align = "center" alt = "screenshotapp" width = "200" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
 
