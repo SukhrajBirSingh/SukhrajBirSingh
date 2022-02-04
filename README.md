@@ -1,9 +1,10 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sukhraj Bir Sinngh</h1>
+<h1 align="center">Hi 👋, I'm Sukhraj Bir Singh</h1>
 <h3 align="center">A passionate self thought mobile developer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+
+<img align="right" alt="Coding" width="200" height ="150" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
  
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -11,9 +12,22 @@
 
 - 📫 How to reach me **Sgosal15@gmail.com**
 
+<h3 align = "center">React-Native Apps</h3>
+<div>
+<figure>
+<img alt = "screenshotapp" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
+<img alt = "screenshotapp" width = "150" height = "300" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/AppScreenshots/IMG_3134.PNG?raw=true">
+ <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Meals App</a>
+ </figure>
+ <figure>
+ <img alt = "shopApp" width = "150" height = "300" src ="https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3137.PNG">
+  <img alt = "shopApp2" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3059.PNG">
+  <a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a>
+ </figure>
+</div>
 
-<h3 align = "right">React-Native Apps</h3>
-<img align = "left" alt = "screenshotapp" width = "100" height = "200" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
+
+
 
 
 <h3 align="left">Connect with me:</h3>
