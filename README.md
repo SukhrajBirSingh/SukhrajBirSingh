@@ -11,21 +11,16 @@
 - 💬 Ask me about **iOS, Swift and React-Native**
 
 - 📫 How to reach me **Sgosal15@gmail.com**
-
-<h3 align = "center">React-Native Apps</h3>
 <div>
-<figure>
+<h3 align = "center">React-Native Apps</h3>
+
 <img alt = "screenshotapp" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
 <img alt = "screenshotapp" width = "150" height = "300" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/AppScreenshots/IMG_3134.PNG?raw=true">
- <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Meals App</a>
- </figure>
- <figure>
+ <p><a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Meals App</a></p>
  <img alt = "shopApp" width = "150" height = "300" src ="https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3137.PNG">
   <img alt = "shopApp2" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3059.PNG">
-  <a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a>
- </figure>
+ <p><a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a></p>
 </div>
-
 
 
 
