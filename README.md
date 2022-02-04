@@ -15,14 +15,15 @@
 
 <h3 align = "center">iOS Apps</h3>
 <div>
-<img alt = "weatherApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/ClimateApp-iOS/raw/main/ScreenShot/1.png">
- <a href = "https://github.com/SukhrajBirSingh/ClimateApp-iOSp">Weather App</a>
+<img alt = "weatherApp" width = "150" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/raw/main/Screenshot/1.png">
+ <img alt = "weatherApp" width = "150" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/raw/main/Screenshot/3.png">
+ <p><a href = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13">FlashChat App</a></p>
  <img alt = "codeNewsApp" width = "150" height = "250" src ="https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/1.png">
   <img alt = "codeNewsApp2" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/2.png">
- <a href = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI">CodeNews App</a>
+ <p> <a href = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI">CodeNews App</a></p>
  <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/1.png">
  <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/3.png">
- <a href ="https://github.com/SukhrajBirSingh/RandomPizza">RandomPizza App</a>
+ <p><a href ="https://github.com/SukhrajBirSingh/RandomPizza">RandomPizza App</a></p>
  </div>
 
 <div>
