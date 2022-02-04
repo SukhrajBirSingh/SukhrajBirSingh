@@ -11,6 +11,20 @@
 - 💬 Ask me about **iOS, Swift and React-Native**
 
 - 📫 How to reach me **Sgosal15@gmail.com**
+
+
+<h3 align = "center">iOS Apps</h3>
+<div>
+<img alt = "weatherApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/ClimateApp-iOS/raw/main/ScreenShot/1.png">
+ <a href = "https://github.com/SukhrajBirSingh/ClimateApp-iOSp">Weather App</a>
+ <img alt = "codeNewsApp" width = "150" height = "250" src ="https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/1.png">
+  <img alt = "codeNewsApp2" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/2.png">
+ <a href = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI">CodeNews App</a>
+ <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/1.png">
+ <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/3.png">
+ <a href ="https://github.com/SukhrajBirSingh/RandomPizza">RandomPizza App</a>
+ </div>
+
 <div>
 <h3 align = "center">React-Native Apps</h3>
 
