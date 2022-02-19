@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **Sgosal15@gmail.com**
 
+- 🎓 Bachelors of **Electronics and Communication Engineering**
+
 
 <h3 align = "center">iOS Apps</h3>
 <div>
