@@ -24,22 +24,20 @@
  <p><a href = "https://github.com/SukhrajBirSingh/FoodApp">FoodApp</a></p>
 <img alt = "flashchatapp1" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/blob/main/Screenshot/Apple%20iPhone%2011%20Pro%20Max%20Presentation-2.png?raw=true">
  <p><a href = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13">FlashChat App</a></p>
- <img alt = "codeNewsApp" width = "150" height = "250" src ="https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/1.png">
-  <img alt = "codeNewsApp2" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/2.png">
- <p> <a href = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI">CodeNews App</a></p>
- <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/1.png">
- <img alt = "RPApp" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/RandomPizza/raw/main/Screenshot/3.png">
+ 
+ <img alt = "RPApp" src = "https://github.com/SukhrajBirSingh/RandomPizza/blob/main/Apple%20iPhone%2011%20Pro%20Max%20Presentation-3.png?raw=true">
+
  <p><a href ="https://github.com/SukhrajBirSingh/RandomPizza">RandomPizza App</a></p>
  </div>
 
 <div>
 <h3 align = "center">React-Native Apps</h3>
 
-<img alt = "screenshotapp" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/The_Meals_App/master/AppScreenshots/IMG_2839.jpg">
-<img alt = "screenshotapp" width = "150" height = "300" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/AppScreenshots/IMG_3134.PNG?raw=true">
+<img alt = "mealsApp" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-4.png?raw=true">
+
  <p><a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Meals App</a></p>
- <img alt = "shopApp" width = "150" height = "300" src ="https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3137.PNG">
-  <img alt = "shopApp2" width = "150" height = "300" src = "https://raw.githubusercontent.com/SukhrajBirSingh/shopApp/master/AppScreenshots/IMG_3059.PNG">
+ <img alt = "shopApp" src ="https://github.com/SukhrajBirSingh/shopApp/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-5.png?raw=true">
+
  <p><a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a></p>
 </div>
 
