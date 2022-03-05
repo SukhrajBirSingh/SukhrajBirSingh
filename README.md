@@ -20,10 +20,9 @@
 
 <h3 align = "center">iOS Apps</h3>
 <div>
- <img alt = "foodapp" src = "https://raw.githubusercontent.com/SukhrajBirSingh/FoodApp/main/1.png">
+ <img alt = "foodapp" src = "https://github.com/SukhrajBirSingh/FoodApp/blob/main/foodApp.png?raw=true">
  <p><a href = "https://github.com/SukhrajBirSingh/FoodApp">FoodApp</a></p>
-<img alt = "flashchatapp1" width = "150" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/raw/main/Screenshot/1.png">
- <img alt = "flashchatapp" width = "150" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/raw/main/Screenshot/3.png">
+<img alt = "flashchatapp1" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/blob/main/Screenshot/Apple%20iPhone%2011%20Pro%20Max%20Presentation-2.png?raw=true">
  <p><a href = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13">FlashChat App</a></p>
  <img alt = "codeNewsApp" width = "150" height = "250" src ="https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/1.png">
   <img alt = "codeNewsApp2" width = "150" height = "250" src = "https://github.com/SukhrajBirSingh/CodeNews-SwiftUI/raw/main/Screenshot/2.png">
