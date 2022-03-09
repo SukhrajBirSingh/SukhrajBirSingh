@@ -13,7 +13,7 @@
 
 
 <h3 align = "center">iOS Apps</h3>
- <img alt = "foodapp" src = "https://github.com/SukhrajBirSingh/FoodApp/blob/main/foodApp.png?raw=true">
+ <a href = "https://github.com/SukhrajBirSingh/FoodApp"><img alt = "foodapp" src = "https://github.com/SukhrajBirSingh/FoodApp/blob/main/foodApp.png?raw=true"></a>
 
  An app that gives a description of different dishes.\
  You can even place an order and view your orders.
@@ -32,7 +32,7 @@
 
 
  
- <img alt = "RPApp" src = "https://github.com/SukhrajBirSingh/RandomPizza/blob/main/Apple%20iPhone%2011%20Pro%20Max%20Presentation-3.png?raw=true">
+ <a href ="https://github.com/SukhrajBirSingh/RandomPizza"><img alt = "RPApp" src = "https://github.com/SukhrajBirSingh/RandomPizza/blob/main/Apple%20iPhone%2011%20Pro%20Max%20Presentation-3.png?raw=true"></a>
 
 Have you ever got confused about what toppings to add to your pizza!\
 This app will help you decide what toppings to add to your next pizza. \
@@ -43,7 +43,7 @@ You can choose from a wide variety of different combinations.
 
 
 <h3 align = "center">React-Native Apps</h3>
-<img alt = "mealsApp" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-4.png?raw=true">
+ <a href = "https://github.com/SukhrajBirSingh/The_Meals_App"><img alt = "mealsApp" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-4.png?raw=true"></a>
 
 A simple meal prepration app with different categories.\
 You can add favorites and filter out meals according to your needs!
@@ -52,7 +52,7 @@ You can add favorites and filter out meals according to your needs!
 
 
 
- <img alt = "shopApp" src ="https://github.com/SukhrajBirSingh/shopApp/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-5.png?raw=true">
+ <a href = "https://github.com/SukhrajBirSingh/shopApp"><img alt = "shopApp" src ="https://github.com/SukhrajBirSingh/shopApp/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-5.png?raw=true"></a>
 
 An online shopping app where user\
 can add and edit their own products,\
