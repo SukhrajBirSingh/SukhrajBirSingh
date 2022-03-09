@@ -22,7 +22,7 @@
 
 
 
-<img alt = "flashchatapp1" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/blob/main/Screenshot/Apple%20iPhone%2011%20Pro%20Max%20Presentation-2.png?raw=true">
+<a href = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13"><img alt = "flashchatapp1" src = "https://github.com/SukhrajBirSingh/Flash-Chat-iOS13/blob/main/Screenshot/Apple%20iPhone%2011%20Pro%20Max%20Presentation-2.png?raw=true"></a>
  
  Flash Chat is an internet based messaging app similar to WhatsApp.\
  We will be using a service called Firebase Firestore as a backend database\
