@@ -14,7 +14,7 @@
 <h3 align = "center">React-Native Apps</h3>
  <a href = "https://github.com/SukhrajBirSingh/UberEatsClone_React-Native"><img alt = "UberApp" src = "https://github.com/SukhrajBirSingh/UberEatsClone_React-Native/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-9.png?raw=true"></a>
 
-This project is a clone of Uber app. It has both UberEats and Uber options.
+This project is a clone of Uber app. It has both platforms UberEats and Uber.
  
  <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Uber Clone</a>
 
