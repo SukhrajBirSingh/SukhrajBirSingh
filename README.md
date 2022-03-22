@@ -11,7 +11,23 @@
 
 - 🎓 Bachelor of **Electronics and Communication Engineering**
 
+<h3 align = "center">React-Native Apps</h3>
+ <a href = "https://github.com/SukhrajBirSingh/UberEatsClone_React-Native"><img alt = "UberApp" src = "https://github.com/SukhrajBirSingh/UberEatsClone_React-Native/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-9.png?raw=true"></a>
 
+This project is a clone of Uber app. It has both UberEats and Uber options.
+ 
+ <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Uber Clone</a>
+
+
+
+ <a href = "https://github.com/SukhrajBirSingh/shopApp"><img alt = "shopApp" src ="https://github.com/SukhrajBirSingh/shopApp/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-5.png?raw=true"></a>
+
+An online shopping app where user\
+can add and edit their own products,\
+and list them on home screen.
+ 
+ <a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a>
+</div>
 <h3 align = "center">iOS Apps</h3>
  <a href = "https://github.com/SukhrajBirSingh/FoodApp"><img alt = "foodapp" src = "https://github.com/SukhrajBirSingh/FoodApp/blob/main/foodApp.png?raw=true"></a>
 
@@ -42,24 +58,7 @@ You can choose from a wide variety of different combinations.
 
 
 
-<h3 align = "center">React-Native Apps</h3>
- <a href = "https://github.com/SukhrajBirSingh/The_Meals_App"><img alt = "mealsApp" src = "https://github.com/SukhrajBirSingh/The_Meals_App/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-4.png?raw=true"></a>
 
-A simple meal prepration app with different categories.\
-You can add favorites and filter out meals according to your needs!
- 
- <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Meals App</a>
-
-
-
- <a href = "https://github.com/SukhrajBirSingh/shopApp"><img alt = "shopApp" src ="https://github.com/SukhrajBirSingh/shopApp/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation-5.png?raw=true"></a>
-
-An online shopping app where user\
-can add and edit their own products,\
-and list them on home screen.
- 
- <a href = "https://github.com/SukhrajBirSingh/shopApp">Shop App</a>
-</div>
 
 
 
