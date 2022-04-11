@@ -50,7 +50,7 @@ and list them on home screen.
  
  <a href ="https://github.com/SukhrajBirSingh/RandomPizza"><img alt = "RPApp" src = "https://github.com/SukhrajBirSingh/RandomPizza/blob/main/Apple%20iPhone%2011%20Pro%20Max%20Presentation-3.png?raw=true"></a>
 
-Have you ever got confused about what toppings to add to your pizza!\
+Have you ever got confused about what toppings to add to your pizza!!\
 This app will help you decide toppings for your next pizza. \
 You can choose from a wide variety of different combinations.
  
