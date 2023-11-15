@@ -16,7 +16,7 @@
 
 This project is a clone of Uber app. It has both platforms UberEats and Uber.
  
- <a href = "https://github.com/SukhrajBirSingh/The_Meals_App">Uber Clone</a>
+ <a href = "https://github.com/SukhrajBirSingh/UberEatsClone_React-Native">Uber Clone</a>
 
 
 
