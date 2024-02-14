@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="200" height ="150" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
  
-- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **iOS, Swift and React-Native**
 
